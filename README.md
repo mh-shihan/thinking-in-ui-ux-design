@@ -9,7 +9,7 @@ It ensures that everyone can perceive, understand, navigate, and interact with d
 ## 2. Follow 60-30-10 Rules for UI Color
 You can take help from ChatGPT and write this prompt
 ```
-Generate a 60/30/10 minimalist color plate for a modern minimal (My nesh)
+Generate a 60/30/10 minimalist color plate for a modern minimal (My niche)
 ```
 [Follow this blog to choose color](https://www.flux-academy.com/blog/the-psychology-of-color-how-valuable-web-designers-choose-colors)
 
