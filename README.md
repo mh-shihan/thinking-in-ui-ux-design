@@ -9,8 +9,10 @@ It ensures that everyone can perceive, understand, navigate, and interact with d
 ## 2. Follow 60-30-10 Rules for UI Color
 You can take help from ChatGPT and write this prompt
 ```
-generate a 60/30/10 minimalist color plate for a modern minimal (My nesh)
+Generate a 60/30/10 minimalist color plate for a modern minimal (My nesh)
 ```
+[Follow this blog to choose color](https://www.flux-academy.com/blog/the-psychology-of-color-how-valuable-web-designers-choose-colors)
+
 
 ## 3. Design Consistency
 Design consistency in UI/UX refers to maintaining a uniform look, behavior, and experience across all parts of a product or system. It helps users feel comfortable, confident, and in control because they can predict how the interface will behave based on previous interactions.
