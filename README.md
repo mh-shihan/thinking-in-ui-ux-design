@@ -1,4 +1,4 @@
-# Thinking In UI UX Design
+# Thinking In UI/UX Design
 ## 1. Design accessibility
 Accessibility in web or UI/UX design means creating digital interfaces (websites, apps, software) that can be used by all people, including those with disabilities or limitations — such as visual, auditory, motor, or cognitive impairments.
 
